@@ -1,7 +1,7 @@
 # LearnGit
 learn git! be better!
 
-学习笔记中包含以下内容：
+学习笔记中包含以下内容：</br>
 一、git基础</br>
 1 git介绍</br>
 2 git和github的区别</br>
